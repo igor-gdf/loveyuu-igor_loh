@@ -266,11 +266,11 @@ footer {
   .side {
     max-width: 100%;
     flex-basis: auto;
-    width: 100%;
   }
 
   .carousel {
     height: 300px;
+    width: 100%;
   }
 
   footer {
